@@ -1,4 +1,7 @@
-nullhyd.github.io
+nullvizag.github.io
 =================
 
-Null Hyderabad's sandbox
+Null Vizag's sandbox
+
+We have cloned the source code from the null hyderbad github
+
